@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: wheat;
+
+}
+#title{
+    font-size: 170%;
+
+}
+.playbtn{
+    
+    border:2px solid white;
+    padding: 5px 15px;
+    border-radius: 100%;
+    height: 100px;
+    background-color: rgb(27, 28, 28);
+    font-size: 400%;
+    margin: 3px;
+}
+.playbtn:hover{
+    background-color: rgb(206, 240, 240);
+
+}
+.resetbtn{
+    border: none;
+    padding: 5px 15px;
+    border-radius: 10px;
+    background-color: rgb(234, 160, 11);
+    margin: 3px;
+}
+.js-result,.js-moves{
+    font-size: 150%;
+}
